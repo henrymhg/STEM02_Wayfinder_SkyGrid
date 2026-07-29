@@ -68,11 +68,11 @@ Welcome, young founding teams, to your final Capstone Project repository and man
 * **Target Customers:** [e.g., Municipal urban management boards, educational institutions, or residential community boards].
 * **Startup's Core Solution:** [Briefly describe how your product/service operates to mitigate the problem stated above].
 * **Core Technology Stack (Check all applicable technologies):**
-  * [ ] **AI Vision (Computer Vision):** [e.g., Real-time traffic density recognition via smart camera feeds]
-  * [ ] **Robotics/UAVs & Actuators:** [e.g., Automated industrial robotic arm for high-speed waste sorting]
-  * [ ] **IoT & Cloud Infrastructure:** [e.g., Streamlining real-time telemetry sensor data to a centralized cloud server]
-  * [ ] **Green Energy (Sustainability):** [e.g., Hybrid solar-powered arrays driving zero-emission operations]
-  * [ ] **Big Data & Predictive Analytics:** [e.g., Processing mobility patterns to forecast traffic bottlenecks]
+  * [ x ] **AI Vision (Computer Vision):** [e.g., Real-time traffic density recognition via smart camera feeds]
+  * [ x ] **Robotics/UAVs & Actuators:** [e.g., Automated industrial robotic arm for high-speed waste sorting]
+  * [ x ] **IoT & Cloud Infrastructure:** [e.g., Streamlining real-time telemetry sensor data to a centralized cloud server]
+  * [ x ] **Green Energy (Sustainability):** [e.g., Hybrid solar-powered arrays driving zero-emission operations]
+  * [ x ] **Big Data & Predictive Analytics:** [e.g., Processing mobility patterns to forecast traffic bottlenecks]
 
 ---
 
