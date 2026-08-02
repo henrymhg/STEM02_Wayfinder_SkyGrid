@@ -83,7 +83,7 @@ Welcome, young founding teams, to your final Capstone Project repository and man
 *Describe your future vision when the startup's solution is widely integrated into modern urban life.*
 
 *Team's Conceptual Drawing*
-![Smart Society Visual 2045](design_visuals/2045.png)
+![Smart Society Visual 2045](design_visuals/68CFBBC2-BBCD-4957-8CC1-1E6815CB9B98.png)
 
 ---
 
