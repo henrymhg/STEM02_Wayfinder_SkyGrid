@@ -37,13 +37,13 @@ Welcome, young founding teams, to your final Capstone Project repository and man
 
 ### 👥 Co-Founding Team (5 Core Roles - 5 Pillars of Synergy)
 1. **Henry Mach Herzog** - **CEO (Chief Strategist):**
-* **Identity Image / Profile Picture:** ![Henry](design_visuals/Henry.jpeg)]
+* **Identity Image / Profile Picture:** [![Henry](design_visuals/Henry.jpeg)]
 * **Responsibilities:** Leads the project, develops the startup concept, integrates all sections, and coordinates the final presentation.
 2. **Nguyen Tuan Khai** - **Social Researcher:**
-* **Identity Image / Profile Picture:** [![Researcher Name](image_url)]
+* **Identity Image / Profile Picture:** [![TK](design_visuals/TK.jpeg)]
 * **Responsibilities:** Researches the problem, gathers evidence, and develops the systems thinking analysis.
 3. **Lâm Trí Khang** - **Technology Architect:**
-* **Identity Image / Profile Picture:** [![Architect Name](image_url)]
+* **Identity Image / Profile Picture:** [![Kevin](design_visuals/Kevin.jpeg)]
 * **Responsibilities:** Explains how the Wayfinder SkyGrid system operates and creates the technical concepts and diagrams.
 4. **Tran Ha Chi** - **UX/Experience Designer:**
 * **Identity Image / Profile Picture:** [![Designer Name](image_url)]
