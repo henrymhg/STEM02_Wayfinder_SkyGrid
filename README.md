@@ -46,7 +46,7 @@ Welcome, young founding teams, to your final Capstone Project repository and man
 * **Identity Image / Profile Picture:** ![Kevin](design_visuals/Kevin.jpeg)
 * **Responsibilities:** Explains how the Wayfinder SkyGrid system operates and creates the technical concepts and diagrams.
 4. **Tran Ha Chi** - **UX/Experience Designer:**
-* **Identity Image / Profile Picture:** ![Chi](design_visuals/.jpeg)
+* **Identity Image / Profile Picture:** ![Chi](design_visuals/Chi.jpeg)
 * **Responsibilities:** Designs the branding, illustrations, dashboard, diagrams, and all visual content for the README and presentation.
 5. **Minh Dat** - **Venture Investor:**
 * **Identity Image / Profile Picture:**
