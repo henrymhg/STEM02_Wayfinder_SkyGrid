@@ -31,33 +31,33 @@ Welcome, young founding teams, to your final Capstone Project repository and man
 
 *Students begin documenting their team project from this point forward. Replace placeholder brackets `[...]` with your team's actual information.*
 
-## 🚀 1. STARTUP NAME: [Insert Team's Startup Name Here]
+## 🚀 1. STARTUP NAME: Wayfinder
 * **Slogan:** "Guiding Tomorrow's Skys."
-* **Class:** [STEM.02.26]
+* **Class:** STEM.02.26
 
 ### 👥 Co-Founding Team (5 Core Roles - 5 Pillars of Synergy)
 1. **Henry Mach Herzog** - **CEO (Chief Strategist):**
-* **Identity Image / Profile Picture:** [Insert CEO's profile picture or avatar here, or use markdown: ![CEO Name](image_url)]
+* **Identity Image / Profile Picture:** [![CEO Name](image_url)]
 * **Responsibilities:** Leads the project, develops the startup concept, integrates all sections, and coordinates the final presentation.
 2. **Nguyen Tuan Khai** - **Social Researcher:**
-* **Identity Image / Profile Picture:** [Insert Social Researcher's profile picture or avatar here, or use markdown: ![Researcher Name](image_url)]
+* **Identity Image / Profile Picture:** [![Researcher Name](image_url)]
 * **Responsibilities:** Researches the problem, gathers evidence, and develops the systems thinking analysis.
 3. **Lâm Trí Khang** - **Technology Architect:**
-* **Identity Image / Profile Picture:** [Insert Technology Architect's profile picture or avatar here, or use markdown: ![Architect Name](image_url)]
+* **Identity Image / Profile Picture:** [![Architect Name](image_url)]
 * **Responsibilities:** Explains how the Wayfinder SkyGrid system operates and creates the technical concepts and diagrams.
 4. **Tran Ha Chi** - **UX/Experience Designer:**
-* **Identity Image / Profile Picture:** [Insert UX Designer's profile picture or avatar here, or use markdown: ![Designer Name](image_url)]
+* **Identity Image / Profile Picture:** [![Designer Name](image_url)]
 * **Responsibilities:** Designs the branding, illustrations, dashboard, diagrams, and all visual content for the README and presentation.
 5. **Minh Dat** - **Venture Investor:**
-* **Identity Image / Profile Picture:** [Insert Venture Investor's profile picture or avatar here, or use markdown: ![Investor Name](image_url)]
+* **Identity Image / Profile Picture:** [![Investor Name](image_url)]
 * **Responsibilities:** Develops the business model, market analysis, feasibility study, and commercialization strategy.
 
 ---
 ## ⚠️ 2. PROBLEM STATEMENT & SYSTEMS THINKING ANALYSIS
-* **Core Problem Statement:** [e.g., Chronic traffic congestion and carbon emission crises in major metropolitan areas].
+* **Core Problem Statement:** Drone traffic congestion in the skys.
 * **Cause-and-Effect Deep Dive:**
-  * *Root Causes:* [e.g., Low public transit adoption / Absence of smart traffic signaling systems / Exponential growth in private vehicle density...]
-  * *Direct Consequences:* [e.g., Severe gridlocks / Critical air pollution / High urban stress and decayed quality of life...]
+  * *Root Causes:* Demand for autonomous aircraft transport, new regulations enabling autonomous flight, cheaper drones and AI, urbanization and road congestion,instant delivery demand.
+  * *Direct Consequences:* Risk of drone collision in the sky, airspace congestion, emergency response delays, inefficient routing, accidents and noise complaints, stricter regulations.
 
 *Detailed Systems Thinking Map (Attach the image file from the /research_system directory):*
 ![Systems Thinking Diagram](research_system/[team_image_filename].png)
