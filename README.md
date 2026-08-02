@@ -92,7 +92,7 @@ Welcome, young founding teams, to your final Capstone Project repository and man
 Following a 3-week journey of intensive co-creation, our founding team has distilled the following key insights:
 * **We discovered that:** The number of drones are growing extremely fast and will reach more than 25 million global commercial drones in the near future
 * **We learned that:** Technology is most effective when it works alongside people. By combining AI automation with human supervision, Wayfinder SkyGrid creates a safer, more efficient, and more trustworthy urban airspace management system.
-* **Our most unique innovation/competitive edge is:** Wayfinder SkyGrid is a city-wide AI-powered air traffic management platform that coordinates drones from all operators through intelligent drone highways, real-time routing, and automated conflict prevention—rather than each company managing its own isolated drone network. This unites all systems in one!
+* **Our most unique innovation/competitive edge is:** Wayfinder SkyGrid is a city-wide AI-powered air traffic management platform that coordinates drones from all operators through intelligent drone highways, real-time routing, and automated conflict prevention rather than each company managing its own isolated drone network. This unites all systems in one!
 
 ---
 
