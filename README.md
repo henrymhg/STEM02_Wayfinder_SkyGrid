@@ -59,20 +59,23 @@ Welcome, young founding teams, to your final Capstone Project repository and man
   * *Root Causes:* Demand for autonomous aircraft transport, new regulations enabling autonomous flight, cheaper drones and AI, urbanization and road congestion,instant delivery demand.
   * *Direct Consequences:* Risk of drone collision in the sky, airspace congestion, emergency response delays, inefficient routing, accidents and noise complaints, stricter regulations.
 
-*Detailed Systems Thinking Map (Attach the image file from the /research_system directory):*
-![Systems Thinking Diagram](research_system/[team_image_filename].png)
+*Detailed Systems Thinking Map*
+![Systems Thinking Diagram](research_system/Systems_thinking.png)
 
 ---
 
 ## 💡 3. STARTUP ARCHITECTURE & BUSINESS MODEL
-* **Target Customers:** [e.g., Municipal urban management boards, educational institutions, or residential community boards].
-* **Startup's Core Solution:** [Briefly describe how your product/service operates to mitigate the problem stated above].
+* **Target Customers:** Logistics and delivery companies, Emergency services and hospitals, Local governments and smart-city authorities, and Future air-taxi operators
+(NOT PRIVATE PERSONAL DRONES)
+
+* **Startup's Core Solution:** Wayfinder SkyGrid is a startup concept for an automated low-altitude air traffic management platform for smart cities. Inspired by traditional Air Traffic Control (ATC), it uses AI to coordinate commercial delivery drones, emergency response drones, and future passenger air taxis using airways, or “droneways”. A city-wide network of rooftop receiver stations continuously receives data from registered drones, while a Central Control Office supervises the airspace and intervenes only when necessary.
+
 * **Core Technology Stack (Check all applicable technologies):**
-  * [ x ] **AI Vision (Computer Vision):** [e.g., Real-time traffic density recognition via smart camera feeds]
-  * [ x ] **Robotics/UAVs & Actuators:** [e.g., Automated industrial robotic arm for high-speed waste sorting]
-  * [ x ] **IoT & Cloud Infrastructure:** [e.g., Streamlining real-time telemetry sensor data to a centralized cloud server]
-  * [ x ] **Green Energy (Sustainability):** [e.g., Hybrid solar-powered arrays driving zero-emission operations]
-  * [ x ] **Big Data & Predictive Analytics:** [e.g., Processing mobility patterns to forecast traffic bottlenecks]
+  * [ x ] **AI Vision (Computer Vision):** AI analyzes real-time drone telemetry, airspace conditions, weather, and traffic patterns to predict conflicts, optimize routes, and automate low-altitude air traffic management.
+  * [ x ] **Robotics/UAVs & Actuators:** Coordinates commercial delivery drones, emergency response drones, and future passenger eVTOL aircraft through automated flight routing, drone highways, and priority management.
+  * [ x ] **IoT & Cloud Infrastructure:** A city-wide network of rooftop receiver stations streams live drone telemetry to a centralized cloud platform, enabling continuous monitoring, communication, and AI-powered traffic coordination.
+  * [ x ] **Green Energy (Sustainability):** Supports zero-emission electric drone transportation by optimizing flight routes, reducing energy consumption, and enabling sustainable urban logistics and emergency services.
+  * [ x ] **Big Data & Predictive Analytics:** Processes large-scale flight, weather, and traffic data to forecast airspace congestion, prevent collisions, optimize drone routes, and improve overall network efficiency.
 
 ---
 
@@ -86,9 +89,9 @@ Welcome, young founding teams, to your final Capstone Project repository and man
 
 ## 🧠 5. REFLECTION & KNOWLEDGE DISCOVERY
 Following a 3-week journey of intensive co-creation, our founding team has distilled the following key insights:
-* **We discovered that:** [Insert a unique core insight or newly uncovered perspective regarding the problem that challenged your initial assumptions].
-* **We learned that:** [Insert the most profound takeaway regarding the synergy between Technology and Humanity, or high-performance teamwork dynamics].
-* **Our most unique innovation/competitive edge is:** [Insert the distinct value proposition that sets your startup apart from existing market alternatives].
+* **We discovered that:** The number of drones are growing extremely fast and will reach more than 25 million global commercial drones in the near future
+* **We learned that:** Technology is most effective when it works alongside people. By combining AI automation with human supervision, Wayfinder SkyGrid creates a safer, more efficient, and more trustworthy urban airspace management system.
+* **Our most unique innovation/competitive edge is:** Wayfinder SkyGrid is a city-wide AI-powered air traffic management platform that coordinates drones from all operators through intelligent drone highways, real-time routing, and automated conflict prevention—rather than each company managing its own isolated drone network. This unites all systems in one!
 
 ---
 
@@ -97,12 +100,12 @@ Following a 3-week journey of intensive co-creation, our founding team has disti
 
 | Criteria | Maximum Points | Team Self-Score | Rationale & Justification |
 | :--- | :---: | :---: | :--- |
-| **1. High-Impact Problem Solving** | 10 | `[...]/10` | [Justification...] |
-| **2. Innovation & Creativity** | 10 | `[...]/10` | [Justification...] |
-| **3. Feasibility & Scalability** | 10 | `[...]/10` | [Justification...] |
-| **4. Social & Community Impact** | 10 | `[...]/10` | [Justification...] |
-| **5. Business Viability & Marketability** | 10 | `[...]/10` | [Justification...] |
-| **TOTAL SCORE** | **50** | `[...]/50` | |
+| **1. High-Impact Problem Solving** | 10 | `10/10` | Addresses the emerging challenge of managing large-scale urban drone traffic, improving safety, emergency response, and future smart-city mobility. |
+| **2. Innovation & Creativity** | 10 | `9/10` | Introduces an AI-powered city-wide drone traffic management platform with drone highways, automated routing, and a unified airspace network for multiple operators. |
+| **3. Feasibility & Scalability** | 10 | `8.5/10` | The concept builds on existing AI, drone, and communication technologies, but large-scale deployment depends on regulatory approval, infrastructure investment, and industry adoption. |
+| **4. Social & Community Impact** | 10 | `10/10` | Improves public safety, enables faster emergency response, reduces congestion, and supports the development of sustainable smart cities. |
+| **5. Business Viability & Marketability** | 10 | `9/10` | Multiple revenue streams, including government licensing, enterprise subscriptions, and airspace usage fees, create a scalable business model with strong long-term market potential. |
+| **TOTAL SCORE** | **50** | `46.5/50` | |
 
 ---
-🌐 *Project profile meticulously curated by **[Team Name]** in preparation for the **Future Tech Showcase - Demo Day**.*
+🌐 *Project profile meticulously curated by **Wayfinder** in preparation for the **Future Tech Showcase - Demo Day**.*
