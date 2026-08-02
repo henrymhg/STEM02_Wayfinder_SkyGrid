@@ -49,7 +49,7 @@ Welcome, young founding teams, to your final Capstone Project repository and man
 * **Identity Image / Profile Picture:** ![Chi](design_visuals/.jpeg)
 * **Responsibilities:** Designs the branding, illustrations, dashboard, diagrams, and all visual content for the README and presentation.
 5. **Minh Dat** - **Venture Investor:**
-* **Identity Image / Profile Picture:** ![Dat](design_visuals/.jpeg)
+* **Identity Image / Profile Picture:** ![Dat](design_visuals/Dat.jpeg)
 * **Responsibilities:** Develops the business model, market analysis, feasibility study, and commercialization strategy.
 
 ---
