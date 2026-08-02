@@ -37,7 +37,7 @@ Welcome, young founding teams, to your final Capstone Project repository and man
 
 ### 👥 Co-Founding Team (5 Core Roles - 5 Pillars of Synergy)
 1. **Henry Mach Herzog** - **CEO (Chief Strategist):**
-* **Identity Image / Profile Picture:** [!Henry(design_visuals/Henry.jpeg)]
+* **Identity Image / Profile Picture:** [!Henry](design_visuals/Henry.jpeg)]
 * **Responsibilities:** Leads the project, develops the startup concept, integrates all sections, and coordinates the final presentation.
 2. **Nguyen Tuan Khai** - **Social Researcher:**
 * **Identity Image / Profile Picture:** [![Researcher Name](image_url)]
