@@ -82,8 +82,8 @@ Welcome, young founding teams, to your final Capstone Project repository and man
 ## 🎨 4. SMART SOCIETY VISUAL CONCEPTION 2045
 *Describe your future vision when the startup's solution is widely integrated into modern urban life.*
 
-*Team's Conceptual Drawing (Attach the image file from the /design_visuals directory):*
-![Smart Society Visual 2045](design_visuals/[conceptual_drawing_filename].png)
+*Team's Conceptual Drawing*
+![Smart Society Visual 2045](design_visuals/2045.png)
 
 ---
 
